@@ -43,6 +43,7 @@ Use os pontos de extremidade configurados para fazer previsões sobre o preço d
 ## Arquivos no Repositório:
 
 readme.md: Este arquivo de documentação.
+
 endpoints.json: Arquivo JSON contendo os pontos de extremidade configurados para o modelo de previsão.
 
 Com este tutorial, você deverá ser capaz de criar, treinar, avaliar e implantar um modelo de previsão usando Azure Machine Learning, e usar seus pontos de extremidade para fazer previsões em tempo real. Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para abrir uma issue neste repositório.
