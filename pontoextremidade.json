@@ -1,0 +1,9 @@
+{
+    "model_prediction_endpoint": "https://<seu_servico_de_previsao>.azurewebsites.net/predict",
+    "authentication_key": "sua_chave_de_autenticacao_aqui",
+    "status_endpoint": "https://<seu_servico_de_previsao>.azurewebsites.net/status",
+    "model_id": "ID_do_seu_modelo",
+    "created_at": "2024-02-21T12:00:00Z",
+    "updated_at": "2024-02-21T12:30:00Z"
+  }
+  
